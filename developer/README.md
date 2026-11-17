@@ -52,7 +52,7 @@ Ask the project owner to give you access to each of these.
 
 | What | Link | What you do there |
 |---|---|---|
-| **GitHub repository** | https://github.com/Amzz-Maxxing/Frigde-Mate-v2 | Get the code, push changes. Owner adds you under *Settings → Collaborators*. |
+| **GitHub repository** | https://github.com/Amzz-Maxxing/Fridge-Mate | Get the code, push changes. Owner adds you under *Settings → Collaborators*. |
 | **Firebase console** | https://console.firebase.google.com/project/shelflife-fridgemate | Everything Firebase. Owner adds you under *Project settings → Users and permissions*. |
 | Firestore data | https://console.firebase.google.com/project/shelflife-fridgemate/firestore | See/edit stored data, paste security rules |
 | Authentication | https://console.firebase.google.com/project/shelflife-fridgemate/authentication | See user accounts, sign-in methods |
@@ -70,8 +70,8 @@ Ask the project owner to give you access to each of these.
 
 ```bash
 # 1. Get the code
-git clone https://github.com/Amzz-Maxxing/Frigde-Mate-v2.git
-cd Frigde-Mate-v2/developer
+git clone https://github.com/Amzz-Maxxing/Fridge-Mate.git
+cd Fridge-Mate/developer
 
 # 2. Check your tools (fix anything marked ✗)
 flutter doctor
